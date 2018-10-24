@@ -1,3 +1,4 @@
 ﻿if(){
-syso
+sys.print
 }
+else
