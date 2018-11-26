@@ -16,3 +16,7 @@ Changes not staged for commit:
 	modified:   3.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+On branch branch2
+Your branch is up to date with 'origin/branch2'.
+
+nothing to commit, working tree clean
