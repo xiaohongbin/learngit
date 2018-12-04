@@ -6,6 +6,9 @@ public class Welcome {
 		int $;
 		//int 1abc;//错误: 不是语句
 		int 中文;
+		/**
+		 * 标识符
+		 */
 		} 
 
 }
