@@ -7,7 +7,7 @@ public class Welcome {
 		//int 1abc;//错误: 不是语句
 		int 中文;
 		/**
-		 * 标识符
+		 * 标识符，类、方法、变量的命名
 		 */
 		} 
 
